@@ -1,9 +1,5 @@
 # PssstNote
 
-Certainly! Here's a structured version for a GitHub README:
-
-### Password Manager Features
-
 #### Generate Random Password
 - Functionality to generate a secure random password of a specified length (greater than 4).
 
