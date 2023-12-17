@@ -19,7 +19,7 @@
 
 ### Usage
 ![image](https://github.com/deathmukh/PssstNote/assets/91791452/77b106aa-8a06-462a-982a-ab0f59e5335c)
-![i
+![image](https://github.com/deathmukh/PssstNote/assets/91791452/0c208cd5-98f4-4267-9e78-bb928f618e5c)
 
 https://github.com/deathmukh/PssstNote/assets/91791452/4d5019af-5cbe-4541-92de-d60f5f6fdbfc
 
